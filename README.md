@@ -1,4 +1,5 @@
-#VGA_Net
+
+**VGA_Net** 
 
 This is an implementation pf this paper: "VGA-Net: Vessel Graph based Attentional U-Net for Retinal Vessel Segmentation"
 
